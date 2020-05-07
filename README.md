@@ -1,4 +1,12 @@
-# Afternoon Projects from the first two weeks
+# Afternoon Projects from Units 1 & 2
+
+I compiled this repo so you could redo all the afternoon projects from the first two weeks without having to re-download everything or delete all your completed answers. Enjoy!
+
+## Instructions
+
+- `Fork` this repository.
+- `Clone` your fork.
+- Enjoy!
 
 ## Projects Summary
 
